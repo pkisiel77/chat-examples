@@ -8,4 +8,7 @@
 - https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf?fbclid=IwAR0BogVWWpOttqXvSWoAJJX_6htQQZnNZPqqEw1a-0Q29upU_4f3kiQgvsA
 
 
+[ind Celebrity Lookalikes with DeepFace in Python](https://www.youtube.com/watch?v=EdPEUkyfM8g&ab_channel=NeuralNine)
+
+
 
