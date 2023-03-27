@@ -10,5 +10,7 @@
 
 [Find Celebrity Lookalikes with DeepFace in Python](https://www.youtube.com/watch?v=EdPEUkyfM8g&ab_channel=NeuralNine)
 
+[Story-to-Video]https://github.com/GeoHaberC/Story-to-Video
+
 
 
